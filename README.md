@@ -14,3 +14,8 @@
 # ionic generate component components/menu --dry-run
 # NOTE: The "--dry-run" option means no changes were made.
 # ionic generate component components/menu
+# ionic start my-name-project sidemenu
+# ionic generate page tabs
+# ionic generate page tab1
+# ionic generate page tab2
+# ionic generate page tab3
