@@ -20,3 +20,8 @@
 # ionic generate page tab2
 # ionic generate page tab3
 # ionic start my-name-app tabs
+# ionic start my-name-app blank
+# ionic generate page tabs
+# ionic generate page tab1
+# ionic generate page tab2
+# ionic generate page tab3
